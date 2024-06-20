@@ -1,0 +1,186 @@
+{
+    "aboutMe": "My name Calop",
+    "projects": [
+        {
+            "name": "Calculator",
+            "github": "https://github.com/caleb-okkers/calculator.git",
+            "vercel": "https://calculator-ruddy-gamma.vercel.app/",
+            "description": "Calculator using HTML, CSS and Javascript",
+            "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/Calculator.png?raw=true"
+        },
+        {
+            "name": "To Do List",
+            "github": "https://github.com/caleb-okkers/toDoList.git",
+            "vercel": "https://to-do-list-psi-gules.vercel.app/",
+            "description": "To Do List using HTML, CSS and Javascript",
+            "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/ToDoList.png?raw=true"
+        },
+        {
+            "name": "MP3 Player",
+            "github": "https://github.com/caleb-okkers/mp3Player.git",
+            "vercel": "https://mp3-player-topaz.vercel.app/",
+            "description": "MP3 player using HTML, CSS and Javascript",
+            "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/MP3player.png?raw=true"
+        },
+        {
+            "name": "Role Play Game",
+            "github": "",
+            "vercel": "",
+            "description": "Role Play Game using HTML, CSS and Javascript",
+            "image": ""
+        }
+    ],
+
+    "education": [
+        {
+            "qualification": "Fullstack Web Development Bootcamp",
+            "year": "April 2024 - ",
+            "institution": "Life Choices Coding Academy",
+            "contact": [
+                {
+                    "name": "Matthew Brown",
+                    "contactDetails": "071 563 4139"
+                }
+            ]
+        },
+        {
+            "qualification": "BA Sport Science & Psychology",
+            "year": "January 2020 - December 2022",
+            "institution": "Stellenbosch University"
+        },
+        {
+            "qualification": "ND Civil Engineering",
+            "year": "January 2019 - December 2019",
+            "institution": "CPUT"
+        },
+        {
+            "qualification": "NSC",
+            "year": "January 2014 - December 2018",
+            "institution": "Spine Road High School"
+        }
+    ],
+
+    "skills": [
+        {
+            "icon": "icon",
+            "name": "HTML"
+            
+        },
+        {
+            "icon": "icon",
+            "name": "CSS"
+            
+        },
+        {
+            "icon": "icon",
+            "name": "Bootstrap"
+            
+        },
+        {
+            "icon": "icon",
+            "name": "Javascript"
+            
+        },
+        {
+            "icon": "icon",
+            "name": "Vue"
+            
+        },
+        {
+            "icon": "icon",
+            "name": "Git"
+            
+        },
+        {
+            "icon": "icon",
+            "name": "Github"
+            
+        }
+
+    ],
+
+    "work": [
+        {
+            "company": "Oceana Distribution",
+            "year": "September 2023 - January 2024",
+            "description": "",
+            "reference": [
+                {
+                    "name": "",
+                    "phone": "",
+                    "position": ""
+                }
+            ]
+        },
+        {
+            "company": "",
+            "year": "",
+            "description": "",
+            "reference": [
+                {
+                    "name": "",
+                    "phone": "",
+                    "position": ""
+                }
+            ]
+        },
+        {
+            "company": "",
+            "year": "",
+            "description": "",
+            "reference": [
+                {
+                    "name": "",
+                    "phone": "",
+                    "position": ""
+                }
+            ]
+        },
+        {
+            "company": "",
+            "year": "",
+            "description": "",
+            "reference": [
+                {
+                    "name": "",
+                    "phone": "",
+                    "position": ""
+                }
+            ]
+        }
+
+    ],
+
+    "testimonials": [
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        },
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        },
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        },
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        },
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        },
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        }
+    ]
+}
