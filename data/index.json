@@ -1,10 +1,25 @@
 {
     "jobTitle": [{
-        "title": "Software Developer"
+        "title": "Fullstack Developer"
+    },
+    {
+        "title": "Software Engineer"
+    },
+    {
+        "title": "UI/UX Designer"
     }
 
     ],
-    "aboutMe": "My name Calop",
+    "aboutMe": [
+        {
+            "name": "About",
+            "text": "I am a compassionate person who enjoys having fun and joking around while knowing when to lock in and take things seriously. I hold values such as respect, kindness, integrity and mindfulness. I also pride myself on being honest and transparent. I enjoy improving myself and encouraging others. My interests are almost endless but my favourite hobbies are exercising, MMA, football, web development and design, drawing, music, watching movies and spending time with my loved ones."
+        },
+        {
+            "name": "Objective",
+            "text": "I am quite ambitious and strive to be healthy and successful in all areas of my life. I crave wisdom and improvement so upskilling is second nature. I aim to cultivate generational wealth and impact many lives for the better."
+        }
+    ],
     "projects": [
         {
             "name": "Calculator",
