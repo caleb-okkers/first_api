@@ -23,19 +23,22 @@
     ],
     "hobbies": [
         {
+            "image": "",
             "name": "Sport",
             "text": "Throughout my life, a mainstay has been sport. I grew up playing football, sprinting and doing other athletic events. My favourite sports are football, MMA, rugby, athletics and Formula 1. Sport has taught me lessons of perserverence, unity and reward. "
         },
         {
+            "image": "",
             "name": "Art",
             "text": "My creativity has always been a great asset, in problem solving, expression and leisure. I enjoy designing, drawing, painting, poetry and music. Web Development has allowed me to exercise my creativity and it's helping me thrive holistically."
         },
         {
+            "image": "",
             "name": "Family",
             "text": "I love spending time with my family, friends and pets. I am a social person and it makes me happy to watch a movie, have a cup of coffee or clown around with my loved ones. They have shaped the man I am today and I am so grateful to be able to spend time with most of them."
         }
     ],
-    
+
     "projects": [
         {
             "name": "Calculator",
