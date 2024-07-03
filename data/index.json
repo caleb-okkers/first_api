@@ -97,44 +97,95 @@
         }
     ],
 
-    "skills": [
+  
+  "skills": [
+    {
+      "icon": "fa-html5",
+      "name": "HTML"
+    },
+    {
+      "icon": "fa-css3-alt",
+      "name": "CSS"
+    },
+    {
+      "icon": "fa-bootstrap",
+      "name": "Bootstrap"
+    },
+    {
+      "icon": "fa-js",
+      "name": "Javascript"
+    },
+    {
+      "icon": "fa-vuejs",
+      "name": "Vue js"
+    },
+    {
+      "icon": "fa-git",
+      "name": "Git"
+    },
+    {
+      "icon": "fa-github",
+      "name": "Github"
+    }
+  ],
+
+
+    "designSkills": [
         {
-            "icon": "icon",
-            "name": "HTML"
-            
+            "icon": "",
+            "name": "Canva"
         },
         {
-            "icon": "icon",
-            "name": "CSS"
-            
+            "icon": "",
+            "name": "Figma"
         },
         {
-            "icon": "icon",
-            "name": "Bootstrap"
-            
+            "icon": "",
+            "name": "Pixso"
         },
         {
-            "icon": "icon",
-            "name": "Javascript"
-            
+            "icon": "",
+            "name": "Gimp"
         },
         {
-            "icon": "icon",
-            "name": "Vue"
-            
+            "icon": "",
+            "name": "Adobe Photoshop"
         },
         {
-            "icon": "icon",
-            "name": "Git"
-            
-        },
-        {
-            "icon": "icon",
-            "name": "Github"
-            
+            "icon": "",
+            "name": "Lightroom"
         }
 
     ],
+
+    "softSkills": [
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Creativity"
+        },
+        {
+            "name": "Problem Solving"
+        },
+        {
+            "name": "Sales & Lead Generation"
+        },
+        {
+            "name": "Marketing"
+        },
+        {
+            "name": "Collaboration"
+        },
+        {
+            "name": "Communication"
+        },
+        {
+            "name": "Public Speaking & Elocution"
+        }
+
+    ],
+
     
     "work": [
         {
