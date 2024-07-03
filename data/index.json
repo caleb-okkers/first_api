@@ -135,55 +135,34 @@
         }
 
     ],
-
+    
     "work": [
+        {
+            "company": "Digital Code",
+            "year": "June 2024 -",
+            "position": "CEO",
+            "description": "I have started a digital marketing agency transforming businesses with beautiful designs and websites."
+            
+            
+        },
         {
             "company": "Oceana Distribution",
             "year": "September 2023 - January 2024",
-            "description": "",
-            "reference": [
-                {
-                    "name": "",
-                    "phone": "",
-                    "position": ""
-                }
-            ]
+            "position": "Sales Representative",
+            "description": "I displayed sharp sales skills, supplying Red Bull to franchises such as Wembley, Cabo Beach Club, LA Lounge and events such as Secrets of Summer"
         },
         {
-            "company": "",
-            "year": "",
-            "description": "",
-            "reference": [
-                {
-                    "name": "",
-                    "phone": "",
-                    "position": ""
-                }
-            ]
+            "company": "Statera Realty",
+            "year": "May 2023 - September 2023",
+            "position": "Real Estate Agent",
+            "description": "As an intern agent I took quickly to the property industry and became a promising prospect, handling lead generation, viewings, mandates and deals."
         },
         {
-            "company": "",
-            "year": "",
-            "description": "",
-            "reference": [
-                {
-                    "name": "",
-                    "phone": "",
-                    "position": ""
-                }
-            ]
-        },
-        {
-            "company": "",
-            "year": "",
-            "description": "",
-            "reference": [
-                {
-                    "name": "",
-                    "phone": "",
-                    "position": ""
-                }
-            ]
+            "company": "Herbalife",
+            "year": "September 2019 - December 2019",
+            "position": "Sales Consultant",
+            "description": "I worked at the Herbalife Sales Centre, providing and assisting customers with orders and managing stock"
+            
         }
 
     ],
