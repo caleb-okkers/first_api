@@ -117,7 +117,7 @@
     },
     {
       "icon": "fa-vuejs",
-      "name": "Vue js"
+      "name": "Vue.js"
     },
     {
       "icon": "fa-git",
@@ -149,7 +149,7 @@
         },
         {
             "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/Adobe_Photoshop_CC_icon.svg.png?raw=true",
-            "name": "Adobe Photoshop"
+            "name": "Photoshop"
         },
         {
             "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/Adobe_Photoshop_Lightroom_CC_logo.svg.png?raw=true",
