@@ -74,22 +74,26 @@
         {
             "qualification": "Fullstack Web Development Bootcamp",
             "year": "April 2024 - ",
-            "institution": "Life Choices Coding Academy"
+            "institution": "Life Choices Coding Academy",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/LC.png?raw=true"
         },
         {
             "qualification": "BA Sport Science & Psychology",
             "year": "January 2020 - December 2022",
-            "institution": "Stellenbosch University"
+            "institution": "Stellenbosch University",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/su.png?raw=true"
         },
         {
             "qualification": "ND Civil Engineering",
             "year": "January 2019 - December 2019",
-            "institution": "CPUT"
+            "institution": "CPUT",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/cput.png?raw=true"
         },
         {
             "qualification": "NSC",
             "year": "January 2014 - December 2018",
-            "institution": "Spine Road High School"
+            "institution": "Spine Road High School",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/srhs.png?raw=true"
         }
     ],
 
