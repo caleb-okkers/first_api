@@ -132,27 +132,27 @@
 
     "designSkills": [
         {
-            "icon": "",
+            "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/canva-logo.png?raw=true",
             "name": "Canva"
         },
         {
-            "icon": "",
+            "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/figma-logo.png?raw=true",
             "name": "Figma"
         },
         {
-            "icon": "",
+            "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/pixso-logo.jpg?raw=true",
             "name": "Pixso"
         },
         {
-            "icon": "",
+            "icon": "https://raw.githubusercontent.com/caleb-okkers/first_api/main/images/gimp-wilber-icon.webp",
             "name": "Gimp"
         },
         {
-            "icon": "",
+            "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/Adobe_Photoshop_CC_icon.svg.png?raw=true",
             "name": "Adobe Photoshop"
         },
         {
-            "icon": "",
+            "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/Adobe_Photoshop_Lightroom_CC_logo.svg.png?raw=true",
             "name": "Lightroom"
         }
 
