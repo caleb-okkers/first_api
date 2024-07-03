@@ -141,27 +141,30 @@
             "company": "Digital Code",
             "year": "June 2024 -",
             "position": "CEO",
-            "description": "I have started a digital marketing agency transforming businesses with beautiful designs and websites."
-            
+            "description": "I have started a digital marketing agency transforming businesses with beautiful designs and websites.",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/dc%20letter%20logo%20design%20inspiration.jpg?raw=true"
             
         },
         {
             "company": "Oceana Distribution",
             "year": "September 2023 - January 2024",
             "position": "Sales Representative",
-            "description": "I displayed sharp sales skills, supplying Red Bull to franchises such as Wembley, Cabo Beach Club, LA Lounge and events such as Secrets of Summer"
+            "description": "I displayed sharp sales skills, supplying Red Bull to franchises such as Wembley, Cabo Beach Club, LA Lounge and events such as Secrets of Summer",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/oceana.png?raw=true"
         },
         {
             "company": "Statera Realty",
             "year": "May 2023 - September 2023",
             "position": "Real Estate Agent",
-            "description": "As an intern agent I took quickly to the property industry and became a promising prospect, handling lead generation, viewings, mandates and deals."
+            "description": "As an intern agent I took quickly to the property industry and became a promising prospect, handling lead generation, viewings, mandates and deals.",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/statera%20realty.jpg?raw=true"
         },
         {
             "company": "Herbalife",
             "year": "September 2019 - December 2019",
             "position": "Sales Consultant",
-            "description": "I worked at the Herbalife Sales Centre, providing and assisting customers with orders and managing stock"
+            "description": "I worked at the Herbalife Sales Centre, providing and assisting customers with orders and managing stock",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/herbalife.jpg?raw=true"
             
         }
 
