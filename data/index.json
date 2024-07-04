@@ -239,36 +239,42 @@
         {
             "name": "Aakifah Palekar",
             "position": "Colleague/Friend",
-            "message": "Caleb is a charismatic and radiant individual, which has him excel in working with others. His work is among the best I've seen, and he consistently motivates those around him. Caleb is patient, kind, and a brilliant person to be around."
+            "message": "Caleb is a charismatic and radiant individual, which has him excel in working with others. His work is among the best I've seen, and he consistently motivates those around him. Caleb is patient, kind, and a brilliant person to be around.",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/Aakifah.jpg?raw=true"
 
 
         },
         {
             "name": "Zen George",
             "position": "Colleague/Friend",
-            "message": "Having Caleb as a classmate has been a delightful experience. His dedication to his studies, combined with his friendly and supportive demeanor, creates a positive atmosphere for everyone around him. He is a driven and hardworking individual who would be a great asset to any company he joins."
+            "message": "Having Caleb as a classmate has been a delightful experience. His dedication to his studies, combined with his friendly and supportive demeanor, creates a positive atmosphere for everyone around him. He is a driven and hardworking individual who would be a great asset to any company he joins.",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/Zen.jpg?raw=true"
 
 
         },
         {
             "name": "Mohammad Mohamed",
             "position": "Colleague/Friend",
-            "message": "Caleb is hard working, has high work ethic and eagerness to help others already makes him such a talented developer. Once you see his projects or designs, you'll realize that he is an amazingly skilled developer who has a bright future in this industry."
+            "message": "Caleb is hard working, has high work ethic and eagerness to help others already makes him such a talented developer. Once you see his projects or designs, you'll realize that he is an amazingly skilled developer who has a bright future in this industry.",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/Mo.jpg?raw=true"
         },
         {
             "name": "Nazneen Abrahams",
             "position": "Colleague/Friend",
-            "message": "Caleb is a hardworking individual, who exceeds all expectations. Working with Caleb is an absolute pleasure, he brings a positive atmosphere and motivates those around him."
+            "message": "Caleb is a hardworking individual, who exceeds all expectations. Working with Caleb is an absolute pleasure, he brings a positive atmosphere and motivates those around him.",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/Naz.jpg?raw=true"
         },
         {
             "name": "Kyle Brink",
             "position": "Colleague/Friend",
-            "message": " I have had the pleasure of knowing Caleb and can attest to his exceptional skills, dedication and passion for coding. He is very keen on helping those around him and he is excellent at communicating and teaching others. With Caleb’s drive, determination and perfectionist personality, I am confident that he will exceed your expectations."
+            "message": " I have had the pleasure of knowing Caleb and can attest to his exceptional skills, dedication and passion for coding. He is very keen on helping those around him and he is excellent at communicating and teaching others. With Caleb’s drive, determination and perfectionist personality, I am confident that he will exceed your expectations.",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/Kyle2.jpg?raw=true"
         },
         {
             "name": "Asheeka Samuels",
             "position": "Colleague/Friend",
-            "message": "I am grateful to call Caleb a close friend. He has great work ethic, analytical and problem solving skills. He thrives in collaborative settings as well as when he works on his own. He is kind, generous and hilarious. Caleb would be a valuable asset to any organization."
+            "message": "I am grateful to call Caleb a close friend. He has great work ethic, analytical and problem solving skills. He thrives in collaborative settings as well as when he works on his own. He is kind, generous and hilarious. Caleb would be a valuable asset to any organization.",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/Asheeka.jpg?raw=true"
         }
     ]
 }
