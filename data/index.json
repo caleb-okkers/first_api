@@ -44,28 +44,28 @@
             "name": "Calculator",
             "github": "https://github.com/caleb-okkers/calculator.git",
             "vercel": "https://calculator-ruddy-gamma.vercel.app/",
-            "description": "Calculator using HTML, CSS and Javascript",
+            "description": "HTML, CSS and Javascript",
             "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/Calculator.png?raw=true"
         },
         {
             "name": "To Do List",
             "github": "https://github.com/caleb-okkers/toDoList.git",
             "vercel": "https://to-do-list-psi-gules.vercel.app/",
-            "description": "To Do List using HTML, CSS and Javascript",
+            "description": "HTML, CSS and Javascript",
             "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/ToDoList.png?raw=true"
         },
         {
             "name": "MP3 Player",
             "github": "https://github.com/caleb-okkers/mp3Player.git",
             "vercel": "https://mp3-player-topaz.vercel.app/",
-            "description": "MP3 player using HTML, CSS and Javascript",
+            "description": "HTML, CSS and Javascript",
             "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/MP3player.png?raw=true"
         },
         {
             "name": "Role Play Game",
             "github": "",
             "vercel": "",
-            "description": "Role Play Game using HTML, CSS and Javascript",
+            "description": "HTML, CSS and Javascript",
             "image": ""
         }
     ],
