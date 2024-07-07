@@ -100,32 +100,32 @@
   
   "skills": [
     {
-      "icon": "fa-html5",
+      "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/7489c1873d2578b64e440f82e75c8cb23ed85a62/src/assets/html5.svg",
       "name": "HTML"
     },
     {
-      "icon": "fa-css3-alt",
+      "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/7489c1873d2578b64e440f82e75c8cb23ed85a62/src/assets/css.svg",
       "name": "CSS"
     },
     {
-      "icon": "fa-bootstrap",
+      "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/7489c1873d2578b64e440f82e75c8cb23ed85a62/src/assets/bootstrap.svg",
       "name": "Bootstrap"
     },
     {
-      "icon": "fa-js",
+      "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/7489c1873d2578b64e440f82e75c8cb23ed85a62/src/assets/javascript-svgrepo-com.svg",
       "name": "Javascript"
     },
     {
-      "icon": "fa-vuejs",
+      "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/7489c1873d2578b64e440f82e75c8cb23ed85a62/src/assets/vue-svgrepo-com.svg",
       "name": "Vue.js"
     },
     {
-      "icon": "fa-git",
-      "name": "Git"
+      "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/7489c1873d2578b64e440f82e75c8cb23ed85a62/src/assets/nodejs-icon-svgrepo-com.svg",
+      "name": "Node.js"
     },
     {
-      "icon": "fa-github",
-      "name": "Github"
+      "icon": "",
+      "name": "Git"
     }
   ],
 
