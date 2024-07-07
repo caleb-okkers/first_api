@@ -38,35 +38,49 @@
             "text": "I love spending time with my family, friends and pets. I am a social person and it brings me joy to relax or clown around with my loved ones. They have shaped who I am today and I'm so grateful to be able to spend time with them."
         }
     ],
-
+    
     "projects": [
         {
-            "name": "Calculator",
-            "github": "https://github.com/caleb-okkers/calculator.git",
-            "vercel": "https://calculator-ruddy-gamma.vercel.app/",
-            "description": "Calculator using HTML, CSS and Javascript",
-            "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/Calculator.png?raw=true"
-        },
-        {
-            "name": "To Do List",
-            "github": "https://github.com/caleb-okkers/toDoList.git",
-            "vercel": "https://to-do-list-psi-gules.vercel.app/",
-            "description": "To Do List using HTML, CSS and Javascript",
-            "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/ToDoList.png?raw=true"
+            "name": "Classique",
+            "github": "https://github.com/caleb-okkers/classique.git",
+            "vercel": "https://classique-delta.vercel.app/",
+            "description": "HTML, CSS, Bootstrap and Javascript",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/classique.png?raw=true"
         },
         {
             "name": "MP3 Player",
             "github": "https://github.com/caleb-okkers/mp3Player.git",
             "vercel": "https://mp3-player-topaz.vercel.app/",
-            "description": "MP3 player using HTML, CSS and Javascript",
-            "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/MP3player.png?raw=true"
+            "description": "HTML, CSS and Javascript",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/mp3%20player.png?raw=true"
+        },
+        {
+            "name": "To Do List",
+            "github": "https://github.com/caleb-okkers/toDoList.git",
+            "vercel": "https://to-do-list-psi-gules.vercel.app/",
+            "description": "HTML, CSS and Javascript",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/todo%20app.png?raw=true"
         },
         {
             "name": "Role Play Game",
-            "github": "",
-            "vercel": "",
-            "description": "Role Play Game using HTML, CSS and Javascript",
-            "image": ""
+            "github": "https://github.com/caleb-okkers/rolePlayGame.git",
+            "vercel": "https://role-play-game-zeta.vercel.app/",
+            "description": "HTML, CSS and Javascript",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/role%20play%20game.png?raw=true"
+        },
+        {
+            "name": "BMI Calculator",
+            "github": "https://github.com/caleb-okkers/bmiCalculator.git",
+            "vercel": "https://bmi-calculator-five-iota.vercel.app/",
+            "description": "HTML, CSS and Javascript",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/bmi%20calculator.png?raw=true"
+        },
+        {
+            "name": "Calculator",
+            "github": "https://github.com/caleb-okkers/calculator.git",
+            "vercel": "https://calculator-ruddy-gamma.vercel.app/",
+            "description": "HTML, CSS and Javascript",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/calculator.png?raw=true"
         }
     ],
 
@@ -223,34 +237,44 @@
 
     "testimonials": [
         {
-            "name": "",
-            "position": "",
-            "message": ""
+            "name": "Aakifah Palekar",
+            "position": "Colleague/Friend",
+            "message": "Caleb is a charismatic and radiant individual, which has him excel in working with others. His work is among the best I've seen, and he consistently motivates those around him. Caleb is patient, kind, and a brilliant person to be around.",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/Aakifah.jpg?raw=true"
+
+
         },
         {
-            "name": "",
-            "position": "",
-            "message": ""
+            "name": "Zen George",
+            "position": "Colleague/Friend",
+            "message": "Having Caleb as a classmate has been a delightful experience. His dedication to his studies, combined with his friendly and supportive demeanor, creates a positive atmosphere for everyone around him. He is a driven and hardworking individual who would be a great asset to any company he joins.",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/Zen.jpg?raw=true"
+
+
         },
         {
-            "name": "",
-            "position": "",
-            "message": ""
+            "name": "Mohammad Mohamed",
+            "position": "Colleague/Friend",
+            "message": "Caleb is hard working, has high work ethic and eagerness to help others already makes him such a talented developer. Once you see his projects or designs, you'll realize that he is an amazingly skilled developer who has a bright future in this industry.",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/Mo.jpg?raw=true"
         },
         {
-            "name": "",
-            "position": "",
-            "message": ""
+            "name": "Nazneen Abrahams",
+            "position": "Colleague/Friend",
+            "message": "Caleb is a hardworking individual, who exceeds all expectations. Working with Caleb is an absolute pleasure, he brings a positive atmosphere and motivates those around him.",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/Naz.jpg?raw=true"
         },
         {
-            "name": "",
-            "position": "",
-            "message": ""
+            "name": "Kyle Brink",
+            "position": "Colleague/Friend",
+            "message": " I've had the pleasure of knowing Caleb and I can attest to his exceptional skills, dedication and passion for coding. He is keen on helping those around him and he is excellent at teaching others. With his drive and perfectionism, he will exceed your expectations.",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/Kyle2.jpg?raw=true"
         },
         {
-            "name": "",
-            "position": "",
-            "message": ""
+            "name": "Asheeka Samuels",
+            "position": "Colleague/Friend",
+            "message": "I am grateful to call Caleb a close friend. He has great work ethic, analytical and problem solving skills. He thrives in collaborative settings as well as when he works on his own. He is kind, generous and hilarious. Caleb would be a valuable asset to any organization.",
+            "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/Asheeka.jpg?raw=true"
         }
     ]
 }
