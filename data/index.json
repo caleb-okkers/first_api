@@ -187,10 +187,7 @@
             "name": "Problem Solving"
         },
         {
-            "name": "Sales & Lead Generation"
-        },
-        {
-            "name": "Marketing"
+            "name": "Sales & Marketing"
         },
         {
             "name": "Collaboration"
@@ -203,6 +200,12 @@
         },
         {
             "name": "Professionalism & Work Ethic"
+        },
+        {
+            "name": "Resilience"
+        },
+        {
+            "name": "Mindfulness"
         }
 
     ],
