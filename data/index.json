@@ -1,7 +1,7 @@
 {
     "jobTitle": [
         {
-        "title": "Fullstack Developer"
+        "title": "Fullstack Developer" 
     },
     {
         "title": "Software Engineer"
@@ -213,9 +213,9 @@
     
     "work": [
         {
-            "company": "Digital Code",
+            "company": "Argo Digital",
             "year": "June 2024 -",
-            "position": "CEO",
+            "position": "Freelancer",
             "description": "I have started a digital marketing agency transforming businesses with beautiful designs and websites.",
             "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/dc%20letter%20logo%20design%20inspiration.jpg?raw=true"
             
