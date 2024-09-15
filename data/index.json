@@ -98,7 +98,7 @@
             "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/cput.png?raw=true"
         },
         {
-            "qualification": "NSC",
+            "qualification": "National Senior Certificate",
             "year": "January 2014 - December 2018",
             "institution": "Spine Road High School",
             "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/srhs.png?raw=true"
@@ -221,7 +221,7 @@
         {
             "company": "Oceana Distribution",
             "year": "September 2023 - January 2024",
-            "position": "Sales Representative",
+            "position": "Sales Rep",
             "description": "I displayed sharp sales skills, supplying Red Bull to franchises such as Wembley, Cabo Beach Club, LA Lounge and events such as Secrets of Summer",
             "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/oceana.png?raw=true"
         },
