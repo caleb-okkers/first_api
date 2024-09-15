@@ -60,7 +60,7 @@
             "github": "https://github.com/caleb-okkers/quartzStudioCPTComingSoon.git",
             "hosted": "https://quartz-studio-cpt-coming-soon.vercel.app/",
             "description": "A deploy-ready coming soon website for a registered kitchen design and installation company using Javascript.",
-            "image": ""
+            "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Quartz%20Studio.png?raw=true"
         },
         {
             "name": "MP3 Player",
