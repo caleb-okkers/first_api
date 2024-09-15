@@ -132,6 +132,10 @@
       "name": "Node.js"
     },
     {
+      "icon": "",
+      "name": "MySQL"
+    },
+    {
       "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/00d0d4884b8baf01e1c0b6b4cca552b5311db935/src/assets/git-svgrepo-com.svg",
       "name": "Git"
     }
