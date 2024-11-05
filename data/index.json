@@ -188,7 +188,7 @@
             "name": "Sales & Marketing"
         },
         {
-            "name": "Collaboration"
+            "name": "Collaboration/SCRUM"
         },
         {
             "name": "Communication"
@@ -211,6 +211,14 @@
     
     "work": [
         {
+            "company": "LC Studio",
+            "year": "September 2024 -",
+            "position": "Intern Web Developer",
+            "description": "I am improving my web development skills while broadening my technical expertise through various projects and use of agile methodologies",
+            "image": "https://github.com/caleb-okkers/first_api/blob/main/images/LC%20Studio%20logo.png?raw=true"
+            
+        },
+        {
             "company": "Argo Digital",
             "year": "June 2024 -",
             "position": "Freelancer",
@@ -221,7 +229,7 @@
         {
             "company": "Oceana Distribution",
             "year": "September 2023 - January 2024",
-            "position": "Sales Rep",
+            "position": "Sales Representative",
             "description": "I displayed sharp sales skills, supplying Red Bull to franchises such as Wembley, Cabo Beach Club, LA Lounge and events such as Secrets of Summer",
             "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/oceana.png?raw=true"
         },
