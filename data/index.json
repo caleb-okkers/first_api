@@ -38,21 +38,21 @@
             "name": "The Huntsman",
             "github": "https://github.com/AChar1f/the-Huntsman.git",
             "hosted": "https://thehuntsman-62a86.web.app/",
-            "description": "An Ecommerce website selling hunting weaponry, made using MySQL, Node.js, Javascript and Vue.js",
+            "description": "An Ecommerce website selling hunting weaponry, made using MySQL, Node.js, Javascript and Vue.js.",
             "image": "https://github.com/caleb-okkers/first_api/blob/main/images/thehuntsman.png?raw=true"
         },
         {
             "name": "Via Veneto Royale",
             "github": "https://github.com/caleb-okkers/vv-royale.git",
             "hosted": "https://vv-royale.web.app/",
-            "description": "A Roman hotel's website with a booking system using MySQL, Node.js, Javascript and Vue.js",
+            "description": "A Roman hotel's website with a booking system using MySQL, Node.js, Javascript and Vue.js.",
             "image": "https://github.com/caleb-okkers/first_api/blob/main/images/vv-royale.png?raw=true"
         },
         {
             "name": "Classique",
             "github": "https://github.com/caleb-okkers/classique.git",
             "hosted": "https://classique-delta.vercel.app/",
-            "description": "Ecommerce website selling formal menswear using Bootstrap and Javascript",
+            "description": "Ecommerce website selling formal menswear using Bootstrap and Javascript.",
             "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/classique.png?raw=true"
         },
         {
@@ -66,14 +66,14 @@
             "name": "MP3 Player",
             "github": "https://github.com/caleb-okkers/mp3Player.git",
             "hosted": "https://mp3-player-topaz.vercel.app/",
-            "description": "A music player using Javascript",
+            "description": "A music player using Javascript.",
             "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/mp3%20player.png?raw=true"
         },
         {
             "name": "To Do List",
             "github": "https://github.com/caleb-okkers/toDoList.git",
             "hosted": "https://to-do-list-psi-gules.vercel.app/",
-            "description": "A to-do-list to order tasks using Javascript",
+            "description": "A to-do-list to order tasks using Javascript.",
             "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/todo%20app.png?raw=true"
         }
     ],
@@ -81,7 +81,7 @@
     "education": [
         {
             "qualification": "Fullstack Web Development Bootcamp",
-            "year": "April 2024 - ",
+            "year": "April 2024 - September 2024",
             "institution": "Life Choices",
             "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/LC.png?raw=true"
         },
@@ -214,7 +214,7 @@
             "company": "LC Studio",
             "year": "September 2024 -",
             "position": "Intern Web Developer",
-            "description": "I am improving my web development skills while broadening my technical expertise through various projects and use of agile methodologies",
+            "description": "I am improving my web development skills while broadening my technical expertise through various projects and use of agile methodologies.",
             "image": "https://github.com/caleb-okkers/first_api/blob/main/images/LC%20Studio%20logo.png?raw=true"
             
         },
@@ -230,7 +230,7 @@
             "company": "Oceana Distribution",
             "year": "September 2023 - January 2024",
             "position": "Sales Representative",
-            "description": "I displayed sharp sales skills, supplying Red Bull to franchises such as Wembley, Cabo Beach Club, LA Lounge and events such as Secrets of Summer",
+            "description": "I displayed sharp sales skills, supplying Red Bull to franchises such as Wembley, Cabo Beach Club, LA Lounge and events such as Secrets of Summer.",
             "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/oceana.png?raw=true"
         },
         {
@@ -244,7 +244,7 @@
             "company": "Herbalife",
             "year": "September 2019 - December 2019",
             "position": "Sales Consultant",
-            "description": "I worked at the Herbalife Sales Centre, providing and assisting customers with orders and managing stock",
+            "description": "I worked at the Herbalife Sales Centre, providing and assisting customers with orders and managing stock.",
             "image": "https://github.com/caleb-okkers/first_api/blob/main/images/herbalife%201x1.jpg?raw=true"
             
         }
