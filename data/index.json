@@ -292,5 +292,68 @@
             "message": "I am grateful to call Caleb a close friend. He has great work ethic, analytical and problem solving skills. He thrives in collaborative settings as well as when he works on his own. He is kind, generous and hilarious. Caleb would be a valuable asset to any organization.",
             "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/Asheeka.jpg?raw=true"
         }
-    ]
+    ],
+
+    "cardSkills": [
+    {
+      "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/7489c1873d2578b64e440f82e75c8cb23ed85a62/src/assets/html5.svg",
+      "name": "HTML"
+    },
+    {
+      "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/7489c1873d2578b64e440f82e75c8cb23ed85a62/src/assets/css.svg",
+      "name": "CSS"
+    },
+    {
+      "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/7489c1873d2578b64e440f82e75c8cb23ed85a62/src/assets/bootstrap.svg",
+      "name": "Bootstrap"
+    },
+    {
+      "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/7489c1873d2578b64e440f82e75c8cb23ed85a62/src/assets/javascript-svgrepo-com.svg",
+      "name": "Javascript"
+    },
+    {
+      "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/7489c1873d2578b64e440f82e75c8cb23ed85a62/src/assets/vue-svgrepo-com.svg",
+      "name": "Vue.js"
+    },
+    {
+      "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/7489c1873d2578b64e440f82e75c8cb23ed85a62/src/assets/nodejs-icon-svgrepo-com.svg",
+      "name": "Node.js"
+    },
+    {
+      "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/mysql-svgrepo-com%20(1).png?raw=true",
+      "name": "MySQL"
+    },
+    {
+      "icon": "https://raw.githubusercontent.com/caleb-okkers/first_api/bdede1276fc288935c420f5cc7ab983b1e49feb8/images/wordpress-svgrepo-com%20(1).svg",
+      "name": "Wordpress"
+    },
+    {
+      "icon": "",
+      "name": "Linux"
+    },
+    {
+      "icon": "",
+      "name": "AWS"
+    },
+    {
+      "icon": "",
+      "name": "Firebase"
+    },
+    {
+      "icon": "",
+      "name": "SEO"
+    },
+    {
+        "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/canva-logo.png?raw=true",
+        "name": "Canva"
+    },
+    {
+        "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/figma-logo.png?raw=true",
+        "name": "Figma"
+    },
+    {
+        "icon": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/spline.jpeg?raw=true",
+        "name": "Spline"
+    }
+  ]
 }
