@@ -38,14 +38,14 @@
             "name": "The Huntsman",
             "github": "https://github.com/AChar1f/the-Huntsman.git",
             "hosted": "https://thehuntsman-62a86.web.app/",
-            "description": "An Ecommerce website selling hunting weaponry, made using MySQL, Node.js, Javascript and Vue.js.",
+            "description": "Ecommerce website made using MySQL, Node.js, Javascript and Vue.js.",
             "image": "https://github.com/caleb-okkers/first_api/blob/main/images/thehuntsman.png?raw=true"
         },
         {
             "name": "Via Veneto Royale",
             "github": "https://github.com/caleb-okkers/vv-royale.git",
             "hosted": "https://vv-royale.web.app/",
-            "description": "A Roman hotel's website with a booking system using MySQL, Node.js, Javascript and Vue.js.",
+            "description": "Hotel's website with a booking system using MySQL, Node.js, Javascript and Vue.js.",
             "image": "https://github.com/caleb-okkers/first_api/blob/main/images/vv-royale.png?raw=true"
         },
         {
@@ -59,21 +59,21 @@
             "name": "Quartz Studio CPT",
             "github": "https://github.com/caleb-okkers/quartzStudioCPTComingSoon.git",
             "hosted": "https://quartz-studio-cpt-coming-soon.vercel.app/",
-            "description": "A deploy-ready coming soon website for a registered kitchen design and installation company using Javascript.",
+            "description": "Coming-soon website for a registered kitchen design company using vanilla Javascript.",
             "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Quartz%20Studio.png?raw=true"
         },
         {
-            "name": "MP3 Player",
+            "name": "LSTNR",
             "github": "https://github.com/caleb-okkers/mp3Player.git",
             "hosted": "https://mp3-player-topaz.vercel.app/",
-            "description": "A music player using Javascript.",
+            "description": "A music player for your favourite tunes using vanilla Javascript.",
             "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/mp3%20player.png?raw=true"
         },
         {
             "name": "To Do List",
             "github": "https://github.com/caleb-okkers/toDoList.git",
             "hosted": "https://to-do-list-psi-gules.vercel.app/",
-            "description": "A to-do-list to order tasks using Javascript.",
+            "description": "A to-do-list to order your daily tasks using vanilla Javascript.",
             "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/todo%20app.png?raw=true"
         }
     ],
