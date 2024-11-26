@@ -355,5 +355,50 @@
         "icon": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/spline.jpeg?raw=true",
         "name": "Spline"
     }
+  ],
+    
+  "projectsv2": [
+      {
+          "name": "The Huntsman",
+          "github": "https://github.com/AChar1f/the-Huntsman.git",
+          "hosted": "https://thehuntsman-62a86.web.app/",
+          "description": "Ecommerce website made using MySQL, Node.js, Javascript and Vue.js.",
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202024-11-26%20210359.png?raw=true"
+      },
+      {
+          "name": "Via Veneto Royale",
+          "github": "https://github.com/caleb-okkers/vv-royale.git",
+          "hosted": "https://vv-royale.web.app/",
+          "description": "Hotel's website with a booking system using MySQL, Node.js, Javascript and Vue.js.",
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202024-11-26%20210524.png?raw=true"
+      },
+      {
+          "name": "Classique",
+          "github": "https://github.com/caleb-okkers/classique.git",
+          "hosted": "https://classique-delta.vercel.app/",
+          "description": "Ecommerce website selling formal menswear using Bootstrap and Javascript.",
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202024-11-26%20210546.png?raw=true"
+      },
+      {
+          "name": "Quartz Studio CPT",
+          "github": "https://github.com/caleb-okkers/quartzStudioCPTComingSoon.git",
+          "hosted": "https://quartz-studio-cpt-coming-soon.vercel.app/",
+          "description": "Coming-soon website for a registered kitchen design company using vanilla Javascript.",
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202024-11-26%20210623.png?raw=true"
+      },
+      {
+          "name": "LSTNR",
+          "github": "https://github.com/caleb-okkers/mp3Player.git",
+          "hosted": "https://mp3-player-topaz.vercel.app/",
+          "description": "A music player for your favourite tunes using vanilla Javascript.",
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202024-11-26%20210644.png?raw=true"
+      },
+      {
+          "name": "To Do List",
+          "github": "https://github.com/caleb-okkers/toDoList.git",
+          "hosted": "https://to-do-list-psi-gules.vercel.app/",
+          "description": "A to-do-list to order your daily tasks using vanilla Javascript.",
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202024-11-26%20210911.png?raw=true"
+      }
   ]
 }
