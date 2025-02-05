@@ -359,6 +359,12 @@
     
   "projectsv2": [
       {
+          "name": "Athena's Place",
+          "hosted": "https://dev-seookkers.pantheonsite.io/",
+          "description": "An SEO optimized hotel site made with WordPress",
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202025-02-05%20123305.png?raw=true"
+      },
+      {
           "name": "Via Veneto Royale",
           "github": "https://github.com/caleb-okkers/vv-royale.git",
           "hosted": "https://vv-royale.web.app/",
@@ -392,12 +398,6 @@
           "hosted": "https://mp3-player-topaz.vercel.app/",
           "description": "A music player for your favourite tunes using vanilla Javascript.",
           "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202024-11-26%20210644.png?raw=true"
-      },
-      {
-          "name": "Athena's Place",
-          "hosted": "https://dev-seookkers.pantheonsite.io/",
-          "description": "An SEO optimized hotel site made with WordPress",
-          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202024-11-26%20210911.png?raw=true"
       }
   ]
 }
