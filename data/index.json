@@ -211,8 +211,16 @@
     
     "work": [
         {
+            "company": "EasyWire",
+            "year": "March 2025 - June 2025",
+            "position": "Frontend Web Developer",
+            "description": "I developed a complete eCommerce fashion site, handling design, deployment, WooCommerce integration, SEO, performance, and stakeholder collaboration.",
+            "image": "https://raw.githubusercontent.com/caleb-okkers/first_api/refs/heads/main/images/easy-wire-logo.webp"
+            
+        },
+        {
             "company": "LC Studio",
-            "year": "September 2024 -",
+            "year": "September 2024 - February 2025",
             "position": "Intern Web Developer",
             "description": "I am improving my web development skills while broadening my technical expertise through various projects and use of agile methodologies.",
             "image": "https://github.com/caleb-okkers/first_api/blob/main/images/LC%20Studio%20logo.png?raw=true"
@@ -222,7 +230,7 @@
             "company": "Argo Digital",
             "year": "June 2024 -",
             "position": "Freelancer",
-            "description": "I have started a digital marketing agency transforming businesses with beautiful designs and websites.",
+            "description": "I do freelance digital marketing, transforming businesses with beautiful designs and websites.",
             "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/Argo%20logo%20light.png?raw=true"
             
         },
@@ -368,28 +376,28 @@
           "name": "Via Veneto Royale",
           "github": "https://github.com/caleb-okkers/vv-royale.git",
           "hosted": "https://vv-royale.web.app/",
-          "description": "Hotel's website with a booking system using MySQL, Node.js, Javascript and Vue.js.",
+          "description": "Hotel website using MySQL, Node.js, Javascript and Vue.js.",
           "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202024-11-26%20210524.png?raw=true"
         },
         {
             "name": "Classique",
             "github": "https://github.com/caleb-okkers/classique.git",
             "hosted": "https://classique-delta.vercel.app/",
-            "description": "Ecommerce website selling formal menswear using Bootstrap and Javascript.",
+            "description": "Ecommerce fashion website using Bootstrap and Javascript.",
             "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202024-11-26%20210546.png?raw=true"
         },
         {
             "name": "The Huntsman",
             "github": "https://github.com/AChar1f/the-Huntsman.git",
             "hosted": "https://thehuntsman-62a86.web.app/",
-            "description": "Ecommerce website made using MySQL, Node.js, Javascript and Vue.js.",
+            "description": "Ecommerce site using MySQL, Node.js, Javascript and Vue.js.",
             "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202024-11-26%20210359.png?raw=true"
         },
         {
           "name": "Quartz Studio CPT",
           "github": "https://github.com/caleb-okkers/quartzStudioCPTComingSoon.git",
           "hosted": "https://quartz-studio-cpt-coming-soon.vercel.app/",
-          "description": "Coming-soon website for a kitchen design company using Javascript.",
+          "description": "Coming-soon site for a kitchen design company using Javascript.",
           "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202024-11-26%20210623.png?raw=true"
       },
       {
