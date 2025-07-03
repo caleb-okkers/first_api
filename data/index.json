@@ -336,6 +336,38 @@
       "name": "Wordpress"
     },
     {
+        "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/woocommerce.png?raw=true",
+        "name": "WooCommerce"
+    },
+    {
+        "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/elementor.png?raw=true",
+        "name": "Elementor"
+    },
+    {
+        "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/seo-svgrepo-com.png?raw=true",
+        "name": "SEO"
+    },
+    {
+        "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/brand%20identity.png?raw=true",
+        "name": "Brand Identity Development"
+    },
+    {
+        "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/canva-logo.png?raw=true",
+        "name": "Canva"
+    },
+    {
+        "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/figma-logo.png?raw=true",
+        "name": "Figma"
+    },
+    {
+        "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/pagespeed_icon_1_to_1-removebg-preview.png?raw=true",
+        "name": "Page Speed"
+    },
+    {
+        "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/responsive-design-icon.png?raw=true",
+        "name": "Responsive Design"
+    },
+    {
       "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/linux-svgrepo-com.png?raw=true",
       "name": "Linux"
     },
@@ -346,18 +378,6 @@
     {
       "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/firebase-svgrepo-com.png?raw=true",
       "name": "Firebase"
-    },
-    {
-      "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/seo-svgrepo-com.png?raw=true",
-      "name": "SEO"
-    },
-    {
-        "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/canva-logo.png?raw=true",
-        "name": "Canva"
-    },
-    {
-        "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/figma-logo.png?raw=true",
-        "name": "Figma"
     },
     {
         "icon": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/spline.jpeg?raw=true",
