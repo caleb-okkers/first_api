@@ -387,6 +387,12 @@
     
   "projectsv2": [
       {
+          "name": "Bet Against Me",
+          "hosted": "https://betagainstme.co.za/",
+          "description": "Full-scale e-commerce store using WordPress, Elementor",
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202025-02-05%20123305.png?raw=true"
+      },
+      {
           "name": "Athena's Place",
           "hosted": "https://dev-seookkers.pantheonsite.io/",
           "description": "An SEO optimized hotel site made with WordPress",
