@@ -390,7 +390,7 @@
           "name": "Bet Against Me",
           "hosted": "https://betagainstme.co.za/",
           "description": "Full-scale e-commerce store using WordPress, Elementor",
-          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202025-02-05%20123305.png?raw=true"
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/BAM.png?raw=true"
       },
       {
           "name": "Athena's Place",
@@ -411,13 +411,6 @@
             "hosted": "https://classique-delta.vercel.app/",
             "description": "Ecommerce fashion website using Bootstrap and Javascript.",
             "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202024-11-26%20210546.png?raw=true"
-        },
-        {
-            "name": "The Huntsman",
-            "github": "https://github.com/AChar1f/the-Huntsman.git",
-            "hosted": "https://thehuntsman-62a86.web.app/",
-            "description": "Ecommerce site using MySQL, Node.js, Javascript and Vue.js.",
-            "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202024-11-26%20210359.png?raw=true"
         },
         {
           "name": "Quartz Studio CPT",
