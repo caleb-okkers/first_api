@@ -430,35 +430,35 @@
   "certifications": [
       {
           "name": "Full-stack Web Development Certificate",
-          "image": ""
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Fullstack%20Web%20Development%20Certificate.jpg?raw=true"
       },
       {
           "name": "Personality Plus Award",
-          "image": ""
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Personality%20Plus.jpg?raw=true"
       },
       {
           "name": "WordPress Badge",
-          "image": ""
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Wordpress%20Badge.jpeg?raw=true"
         },
         {
           "name": "WordPress API Badge",
-          "image": ""
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Wordpress%20API%20Badge.jpeg?raw=true"
         },
         {
           "name": "Javascript Essentials",
-          "image": ""
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot_2025-09-02_113616-removebg-preview.png?raw=true"
       },
       {
           "name": "SEO I",
-          "image": ""
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot_20250721_123311_com.linkedin.android_edit_74717323447973.jpg?raw=true"
       },
       {
           "name": "SEO II",
-          "image": ""
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot_20250721_123322_com.linkedin.android_edit_74697522678184.jpg?raw=true"
       },
       {
           "name": "Responsive Web Design Certificate",
-          "image": ""
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/www.freecodecamp.org_certification_Caleb_Okkers_responsive-web-design.png?raw=true"
       },
       {
           "name": "Digital Markerting",
@@ -467,6 +467,14 @@
       {
           "name": "Figma UI/UX Badge",
           "image": ""
+      },
+      {
+          "name": "Linux Unhatched",
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot_2025-09-02_113655-removebg-preview.png?raw=true"
+      },
+      {
+          "name": "Operating Systems Basics",
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot_2025-09-02_113712-removebg-preview.png?raw=true"
       }
   ]
 }
