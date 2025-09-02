@@ -426,5 +426,47 @@
           "description": "A music player for your favourite tunes using vanilla Javascript.",
           "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202024-11-26%20210644.png?raw=true"
       }
+  ],
+  "certifications": [
+      {
+          "name": "Full-stack Web Development Certificate",
+          "image": ""
+      },
+      {
+          "name": "Personality Plus Award",
+          "image": ""
+      },
+      {
+          "name": "WordPress Badge",
+          "image": ""
+        },
+        {
+          "name": "WordPress API Badge",
+          "image": ""
+        },
+        {
+          "name": "Javascript Essentials",
+          "image": ""
+      },
+      {
+          "name": "SEO I",
+          "image": ""
+      },
+      {
+          "name": "SEO II",
+          "image": ""
+      },
+      {
+          "name": "Responsive Web Design Certificate",
+          "image": ""
+      },
+      {
+          "name": "Digital Markerting",
+          "image": ""
+      },
+      {
+          "name": "Figma UI/UX Badge",
+          "image": ""
+      }
   ]
 }
