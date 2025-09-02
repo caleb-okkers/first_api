@@ -222,7 +222,7 @@
             "company": "LC Studio",
             "year": "September 2024 - February 2025",
             "position": "Intern Web Developer",
-            "description": "I am improving my web development skills while broadening my technical expertise through various projects and use of agile methodologies.",
+            "description": "I improved my web development skills while broadening my technical expertise through various projects and use of agile methodologies.",
             "image": "https://github.com/caleb-okkers/first_api/blob/main/images/LC%20Studio%20logo.png?raw=true"
             
         },
@@ -446,7 +446,7 @@
         },
         {
           "name": "Javascript Essentials",
-          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot_2025-09-02_113616-removebg-preview.png?raw=true"
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/JS%20Essentials.png?raw=true"
       },
       {
           "name": "SEO I",
@@ -462,19 +462,19 @@
       },
       {
           "name": "Digital Markerting",
-          "image": ""
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202025-09-02%20113432.png?raw=true"
       },
       {
           "name": "Figma UI/UX Badge",
-          "image": ""
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/uiux.png?raw=true"
       },
       {
           "name": "Linux Unhatched",
-          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot_2025-09-02_113655-removebg-preview.png?raw=true"
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Linux%20unhatched.png?raw=true"
       },
       {
           "name": "Operating Systems Basics",
-          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot_2025-09-02_113712-removebg-preview.png?raw=true"
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Operating%20systems.png?raw=true"
       }
   ]
 }
