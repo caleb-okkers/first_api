@@ -211,10 +211,18 @@
     
     "work": [
         {
+            "company": "Project Y (In collaboration with CAPACITI)",
+            "year": "October 2025 - Present",
+            "position": "Digital Associate",
+            "description": "As a member of Project Y's accelerator programme, I am upskilling in Software Development, AI, Cloud and Data Engineering while collaborating on innovative projects to solve real-world problems. ",
+            "image": "https://github.com/caleb-okkers/hosted-images/blob/main/company%20logos/projecty_logo.jpg?raw=true"
+            
+        },
+        {
             "company": "EasyWire",
-            "year": "March 2025 - June 2025",
+            "year": "March 2025 - July 2025",
             "position": "Frontend Web Developer",
-            "description": "I developed a complete eCommerce fashion site, handling design, deployment, WooCommerce integration, SEO, performance, and stakeholder collaboration.",
+            "description": "I developed eCommerce platforms, handling design, deployment, integrations, SEO, performance, and stakeholder collaboration.",
             "image": "https://raw.githubusercontent.com/caleb-okkers/first_api/refs/heads/main/images/easy-wire-logo.webp"
             
         },
@@ -247,14 +255,6 @@
             "position": "Real Estate Agent",
             "description": "As an intern agent I took quickly to the property industry and became a promising prospect, handling lead generation, viewings, mandates and deals.",
             "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/statera%20realty.jpg?raw=true"
-        },
-        {
-            "company": "Herbalife",
-            "year": "September 2019 - December 2019",
-            "position": "Sales Consultant",
-            "description": "I worked at the Herbalife Sales Centre, providing and assisting customers with orders and managing stock.",
-            "image": "https://github.com/caleb-okkers/first_api/blob/main/images/herbalife%201x1.jpg?raw=true"
-            
         }
 
     ],
@@ -324,8 +324,12 @@
       "name": "Vue.js"
     },
     {
-      "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/7489c1873d2578b64e440f82e75c8cb23ed85a62/src/assets/nodejs-icon-svgrepo-com.svg",
-      "name": "Node.js"
+        "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/7489c1873d2578b64e440f82e75c8cb23ed85a62/src/assets/nodejs-icon-svgrepo-com.svg",
+        "name": "Node.js"
+    },
+    {
+        "icon": "https://github.com/caleb-okkers/hosted-images/blob/main/technologies/Python-logo-notext.svg.png?raw=true",
+        "name": "Python"
     },
     {
       "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/mysql-svgrepo-com%20(1).png?raw=true",
@@ -336,20 +340,48 @@
       "name": "Wordpress"
     },
     {
-        "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/woocommerce.png?raw=true",
-        "name": "WooCommerce"
-    },
-    {
         "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/elementor.png?raw=true",
         "name": "Elementor"
     },
     {
-        "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/seo-svgrepo-com.png?raw=true",
-        "name": "SEO"
+        "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/woocommerce.png?raw=true",
+        "name": "WooCommerce"
     },
     {
-        "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/brand%20identity.png?raw=true",
-        "name": "Brand Development"
+        "icon": "https://github.com/caleb-okkers/hosted-images/blob/main/technologies/lovable-color.png?raw=true",
+        "name": "Lovable"
+    },
+    {
+        "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/aws-svgrepo-com%20(1).png?raw=true",
+        "name": "AWS"
+    },
+    {
+        "icon": "https://github.com/caleb-okkers/hosted-images/blob/main/technologies/Microsoft_Azure.svg.png?raw=true",
+        "name": "Microsoft Azure"
+    },
+    {
+        "icon": "https://github.com/caleb-okkers/hosted-images/blob/main/technologies/Microsoft_Power_Platform_logo.svg.png?raw=true",
+        "name": "Microsoft Power Platform"
+    },
+    {
+        "icon": "https://github.com/caleb-okkers/hosted-images/blob/main/technologies/microsoft-365-copilot-logo-png_seeklogo-501781.png?raw=true",
+        "name": "Microsoft 365"
+    },
+    {
+        "icon": "https://raw.githubusercontent.com/caleb-okkers/hosted-images/3328327d83c4beacf74d74e5b4fa7cf813ccc222/technologies/docker-4.svg",
+        "name": "Docker"
+    },
+    {
+        "icon": "https://github.com/caleb-okkers/hosted-images/blob/main/technologies/Kubernetes_logo_without_workmark.svg.png?raw=true",
+        "name": "Kubernetes"
+    },
+    {
+        "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/firebase-svgrepo-com.png?raw=true",
+        "name": "Firebase"
+    },
+    {
+        "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/seo-svgrepo-com.png?raw=true",
+        "name": "SEO"
     },
     {
         "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/canva-logo.png?raw=true",
@@ -360,10 +392,6 @@
         "name": "Figma"
     },
     {
-        "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/pagespeed_icon_1_to_1-removebg-preview.png?raw=true",
-        "name": "Page Speed"
-    },
-    {
         "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/responsive-design-icon.png?raw=true",
         "name": "Responsive Design"
     },
@@ -372,18 +400,10 @@
       "name": "Linux"
     },
     {
-      "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/aws-svgrepo-com%20(1).png?raw=true",
-      "name": "AWS"
-    },
-    {
-      "icon": "https://github.com/caleb-okkers/first_api/blob/main/images/firebase-svgrepo-com.png?raw=true",
-      "name": "Firebase"
-    },
-    {
         "icon": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/spline.jpeg?raw=true",
         "name": "Spline"
     }
-  ],
+],
     
   "projectsv2": [
       {
