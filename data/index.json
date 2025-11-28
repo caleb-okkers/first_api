@@ -429,7 +429,7 @@
             "name": "MyInsights",
             "github": "https://github.com/caleb-okkers/my-insights.git",
             "hosted": "https://my-insightsgit-qexftra8uxl4vggyyneg7u.streamlit.app/",
-            "description": "Dashboard with cleaned MyCiTi data using Python, MySQL, Streamlit",
+            "description": "Dashboard with cleaned MyCiTi data using Python ETL & MySQL.",
             "image": "https://github.com/caleb-okkers/hosted-images/blob/main/project%20images/my-insights%20dashboard.png?raw=true"
         },
     {
