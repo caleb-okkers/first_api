@@ -407,6 +407,13 @@
     
   "projectsv2": [
       {
+          "name": "Genie",
+          "github": "https://github.com/caleb-okkers/genie-content-generator.git",
+          "hosted": "https://salmon-hill-0d504611e.3.azurestaticapps.net/",
+          "description": "AI Marketing Content Generator using Lovable deployed on Azure.",
+          "image": "https://github.com/caleb-okkers/hosted-images/blob/main/project%20images/Genie.png?raw=true"
+        },
+      {
           "name": "Bet Against Me",
           "hosted": "https://betagainstme.co.za/",
           "description": "Full-scale e-commerce store using WordPress, Elementor",
@@ -418,13 +425,6 @@
           "description": "An SEO optimized hotel site made with WordPress",
           "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202025-02-05%20123305.png?raw=true"
       },
-      {
-          "name": "Via Veneto Royale",
-          "github": "https://github.com/caleb-okkers/vv-royale.git",
-          "hosted": "https://vv-royale.web.app/",
-          "description": "Hotel website using MySQL, Node.js, Javascript and Vue.js.",
-          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202024-11-26%20210524.png?raw=true"
-        },
         {
             "name": "Classique",
             "github": "https://github.com/caleb-okkers/classique.git",
@@ -432,7 +432,7 @@
             "description": "Ecommerce fashion website using Bootstrap and Javascript.",
             "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202024-11-26%20210546.png?raw=true"
         },
-        {
+    {
           "name": "Quartz Studio CPT",
           "github": "https://github.com/caleb-okkers/quartzStudioCPTComingSoon.git",
           "hosted": "https://quartz-studio-cpt-coming-soon.vercel.app/",
