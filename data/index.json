@@ -426,11 +426,11 @@
             "image": "https://github.com/caleb-okkers/hosted-images/blob/main/project%20images/Genie.png?raw=true"
           },
         {
-            "name": "Classique",
-            "github": "https://github.com/caleb-okkers/classique.git",
-            "hosted": "https://classique-delta.vercel.app/",
-            "description": "Ecommerce fashion website using Bootstrap and Javascript.",
-            "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202024-11-26%20210546.png?raw=true"
+            "name": "MyInsights",
+            "github": "https://github.com/caleb-okkers/my-insights.git",
+            "hosted": "https://my-insightsgit-qexftra8uxl4vggyyneg7u.streamlit.app/",
+            "description": "Dashboard with cleaned MyCiTi data using Python, MySQL, Streamlit",
+            "image": "https://github.com/caleb-okkers/hosted-images/blob/main/project%20images/my-insights%20dashboard.png?raw=true"
         },
     {
           "name": "Quartz Studio CPT",
