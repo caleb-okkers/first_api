@@ -440,11 +440,11 @@
           "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202024-11-26%20210623.png?raw=true"
       },
       {
-          "name": "LSTNR",
-          "github": "https://github.com/caleb-okkers/mp3Player.git",
-          "hosted": "https://mp3-player-topaz.vercel.app/",
-          "description": "A music player for your favourite tunes using vanilla Javascript.",
-          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot%202024-11-26%20210644.png?raw=true"
+          "name": "Portfolio v1",
+          "github": "https://github.com/caleb-okkers/vueportfolio.git",
+          "hosted": "https://vueportfolio-e814a.web.app/",
+          "description": "My first portfolio website using Vue.js and Firebase.",
+          "image": "https://github.com/caleb-okkers/hosted-images/blob/main/project%20images/Vue%20Portfolio%20v1.png?raw=true"
       }
   ],
   "certifications": [
