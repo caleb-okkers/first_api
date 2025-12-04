@@ -8,7 +8,7 @@
     "aboutMe": [
         {
             "name": "About",
-            "text": "I am a compassionate person who enjoys having fun and joking around while knowing when to lock in and take things seriously. I hold values such as respect, kindness, integrity and mindfulness while I pride myself on being honest and transparent. I also enjoy improving myself and encouraging others."
+            "text": "I am a compassionate person who enjoys having fun and joking around while knowing when to lock in and take things seriously. I hold values such as accountability, respect, kindness, integrity and mindfulness while I pride myself on being honest and transparent. I also enjoy improving myself and encouraging others."
         },
         {
             "name": "Objective",
@@ -214,7 +214,7 @@
             "company": "Project Y",
             "year": "October 2025 - Present",
             "position": "Digital Associate",
-            "description": "As a member of Project Y's accelerator programme, I am upskilling in Software Development, AI, Cloud and Data Engineering while collaborating on innovative projects to solve real-world problems. ",
+            "description": "As a member of Project Y's accelerator programme in partnership with CAPACITI, I am upskilling in Software Development, AI, Cloud and Data Engineering while collaborating on innovative projects to solve real-world problems. ",
             "image": "https://github.com/caleb-okkers/hosted-images/blob/main/company%20logos/projecty_logo.jpg?raw=true"
             
         },
@@ -455,19 +455,31 @@
       {
           "name": "Personality Plus Award",
           "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Personality%20Plus.jpg?raw=true"
-      },
-      {
-          "name": "WordPress Badge",
-          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Wordpress%20Badge.jpeg?raw=true"
-        },
-        {
-          "name": "WordPress API Badge",
-          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Wordpress%20API%20Badge.jpeg?raw=true"
         },
         {
           "name": "Javascript Essentials",
           "image": "https://github.com/caleb-okkers/first_api/blob/main/images/JS%20Essentials.png?raw=true"
       },
+      {
+          "name": "ChatGPT Prompt Engineering for Developers",
+          "image": "https://github.com/caleb-okkers/hosted-images/blob/main/certifications/ChatGPT%20Prompt%20Engineering%20for%20Developers.png?raw=true"
+        },
+        {
+            "name": "Generative AI",
+            "image": "https://github.com/caleb-okkers/hosted-images/blob/main/certifications/GenAI.png?raw=true"
+        },
+        {
+            "name": "Agile with Atlassian Jira",
+            "image": "https://github.com/caleb-okkers/hosted-images/blob/main/certifications/Jira.png?raw=true"
+        },
+        {
+            "name": "WordPress Badge",
+            "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Wordpress%20Badge.jpeg?raw=true"
+        },
+        {
+          "name": "WordPress API Badge",
+          "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Wordpress%20API%20Badge.jpeg?raw=true"
+        },
       {
           "name": "SEO I",
           "image": "https://github.com/caleb-okkers/first_api/blob/main/images/Screenshot_20250721_123311_com.linkedin.android_edit_74717323447973.jpg?raw=true"
